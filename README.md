@@ -1,3 +1,3 @@
 # ML IMPLEMENTATIONS
 
-Implementation of some of the Machine Learning algorithms (excluding A* search) in pure python.
+Implementation of some of the Machine Learning algorithms (and A* search) in pure python.
